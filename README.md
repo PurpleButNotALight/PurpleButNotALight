@@ -3,7 +3,7 @@ i dont take anything seriously if its very
 
 anyways here are some stats
 
-[![PurpleButNotALight's stats](https://github-readme-stats.vercel.app/api?username=PurpleButNotALight&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![PurpleButNotALight's stats](https://github-readme-stats.vercel.app/api?username=PurpleButNotALight&theme=purple-yellow)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleButNotALight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
