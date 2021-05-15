@@ -1,5 +1,5 @@
 ### hi
-i dont take anything seriously if its very
+i dont take anything seriously unless its very
 
 anyways here are some stats
 
