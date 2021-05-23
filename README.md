@@ -3,9 +3,9 @@ i dont take anything seriously unless its very
 
 anyways here are some stats
 
-[![PurpleButNotALight's stats](https://github-readme-stats.vercel.app/api?username=PurpleButNotALight&theme=purple-yellow)](https://github.com/anuraghazra/github-readme-stats)
+[![PurpleButNotALight's stats](https://github-readme-stats.vercel.app/api?username=ThePlank&theme=purple-yellow)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleButNotALight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePlank&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![drink](https://img.shields.io/static/v1?label=purple&message=is%20my%20favroute%20drink&color=purple)](https://www.youtube.com/watch?v=5OdGJ4-BbHc)
 
