@@ -2,11 +2,11 @@
 <h3 align="center">I like coding.</h3>
 
 
-I like screwing arround with programming languages and 99% breaking it.
+I like screwing arround with coding and 99% of the time breaking it.
 
-- 🔭 I’m currently working on **Plank Engine (A Friday Night Funkin' engine)**
-- 🌱 I’m currently learning **Haxe, CSS, HTML**
-- 💬 Ask me about **Programming in Lua**
+- 🔭 I’m currently working on [**Plank Engine**](https://gamebanana.com/wips/57271)
+- 🌱 I’m currently learning **Haxe, JS, CSS, HTML**
+- 💬 Ask me about **Haxe programming or somethin idk**
 - 📫 How to reach me: **My Discord**
 - ⚡ Fun fact: **I burn myself out a lot**
 
