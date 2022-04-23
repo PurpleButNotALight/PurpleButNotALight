@@ -1,14 +1,12 @@
-<h1 align="center">Hello!</h1>
-<h3 align="center">I like coding.</h3>
+<h1 align="center">hi</h1>
 
-
-I like screwing arround with coding and 99% of the time breaking it.
+i code
 
 - 🔭 I’m currently working on [**Plank Engine**](https://gamebanana.com/wips/57271)
 - 🌱 I’m currently learning **Haxe, JS, CSS, HTML**
 - 💬 Ask me about **Haxe programming or somethin idk**
 - 📫 How to reach me: **My Discord**
-- ⚡ Fun fact: **I burn myself out a lot**
+- ⚡ Fun fact: **i started plank engine because i wanted to learn haxe**
 
 ### Languages, libraries and tools i use
 <a href="https://www.lua.org/" target="_blank"><img src="https://raw.githubusercontent.com/ThePlank/ThePlank/main/lua-logo-nolabel.svg" alt="lua" width="50" height="50"/></a>
