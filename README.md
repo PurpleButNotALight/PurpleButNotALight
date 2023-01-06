@@ -3,7 +3,7 @@
 i code
 
 - 🔭 I’m currently working on [**Plank Engine**](https://gamebanana.com/wips/57271)
-- 🌱 I’m currently learning **Haxe, JS, CSS, HTML**
+- 🌱 I’m currently learning **Haxe, C#, JS, CSS, HTML**
 - 💬 Ask me about **Haxe programming or somethin idk**
 - 📫 How to reach me: **My Discord**
 - ⚡ Fun fact: **i started plank engine because i wanted to learn haxe**
