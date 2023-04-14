@@ -5,7 +5,7 @@ hi
 </h1>
 
 i may look like a retarded developer, but... you're right
-so like i know haxe css js and kinda cpp or something
+so like i know haxe css js or something
 
 if you really wanna contact me then get lost, at least for now because gefcsdeeifvkpcjrgewc;gr'wdd'lgr3w ó
 
