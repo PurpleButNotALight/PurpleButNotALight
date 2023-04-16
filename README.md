@@ -10,6 +10,8 @@ so like i know haxe css js or something
 
 if you really wanna contact me then get lost, at least for now because gefcsdeeifvkpcjrgewc;gr'wdd'lgr3w ó
 
+i also do like music and stuff
+
 <h1 align="center">Stats</h1>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=ThePlank&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
