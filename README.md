@@ -6,9 +6,10 @@ hi
 
 i may look like a retarded developer, but... you're right
 
-so like i know haxe css js or something
+so like i know haxe css js iddk
 
-if you really wanna contact me then get lost, at least for now because gefcsdeeifvkpcjrgewc;gr'wdd'lgr3w ó
+you can contact me on discord or smthn
+my tag is @plankdev
 
 i also do like music and stuff
 
