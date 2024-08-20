@@ -1,23 +1,24 @@
+some stupid bitch, but even with that i somehow know how to code
+<br/>
+<br/>
+and how to compose music
+<br/>
+<br/>
+<br/>
+also i like manky old computers
+<br/>
+<br/>
+some of the projects i do
 
-<h1 align="center">
-<img src=";lank.gif"/>
-hi
-</h1>
-
-i may look like a retarded developer, but... you're right
-
-i do haxe c and lua and sshit idkovknscmovkcnmbok;vxzmo;bkxzm,
-
-you can contact me on discord or smthn
-my tag is @plankdev
-
-i also do like music and stuff
-
-<h1 align="center">Stats</h1>
-
+[<img src="https://raw.githubusercontent.com/LemonsFramework/.github/main/lemonsNew.png" alt="lemons" width="25%">](https://github.com/LemonsFramework)
+<br/>
+<br/>
 [![stats](https://github-readme-stats.vercel.app/api?username=ThePlank&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-trophy.vercel.app/?username=theplank&theme=gruvbox)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePlank&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![drink](https://img.shields.io/static/v1?label=purple&message=is%20my%20favroute%20drink&color=purple)](https://www.youtube.com/watch?v=5OdGJ4-BbHc)
-
+https://github.com/user-attachments/assets/15f9fbc5-bb93-4854-b599-5acb48a802c8
